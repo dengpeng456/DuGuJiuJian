@@ -4,6 +4,7 @@ public class DuGuJiuJian {
 
 	public DuGuJiuJian() {
 		System.out.println("wo shi lhc wo hui du gu jiu jian");
+		System.out.println("hen hao hen hao wo hui tianshangdixia weiwoduzungong");
 	}
 
 }
